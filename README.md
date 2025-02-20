@@ -2,8 +2,6 @@
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento web e uma grande motivação para atuar como desenvolvedor Backend. Tenho me especializado em Java e Spring, adquirindo sólidos conhecimentos no desenvolvimento de soluções robustas e escaláveis. Com uma boa base em bancos de dados relacionais como MySQL e bancos NoSQL como MongoDB, estou preparado para lidar com diversos tipos de armazenamento de dados e garantir alta performance nas aplicações.
 
-Além disso, estou constantemente ampliando meus conhecimentos e atualmente estudando a linguagem C#, buscando expandir minha atuação no ecossistema de tecnologias .NET.
-
 ### Minhas Redes
 
 
@@ -31,14 +29,6 @@ Além disso, estou constantemente ampliando meus conhecimentos e atualmente estu
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
