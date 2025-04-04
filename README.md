@@ -5,8 +5,9 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
 ### Minhas Redes
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-571847347/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guiasilvac98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/guilherme-silva-571847347/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
 [![Discord](https://img.shields.io/badge/Discord-00000F.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@devguigs)
 
 
