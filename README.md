@@ -10,12 +10,11 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
 [![Discord](https://img.shields.io/badge/Discord-00000F.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@devguigs)
 
 
+
+
+
+
 #
-
-
-
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Guigs/Dev-Guigs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Guigs/Dev-Guigs/output/github-contribution-grid-snake-dark.svg">
