@@ -1,6 +1,6 @@
 # Hi There!
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento web e uma grande motivação para atuar como desenvolvedor Backend. Tenho me especializado em Java e Spring, adquirindo sólidos conhecimentos no desenvolvimento de soluções robustas e escaláveis. Com uma boa base em bancos de dados relacionais como MySQL e bancos NoSQL como MongoDB, estou preparado para lidar com diversos tipos de armazenamento de dados e garantir alta performance nas aplicações.
+Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento web e uma grande motivação para atuar como desenvolvedor Backend. Tenho me especializado em C#, .NET e ASP.NET Core, tenho adquirindo sólidos conhecimentos no desenvolvimento de soluções robustas e escaláveis. Com uma boa base em bancos de dados SQL e bancos NoSQL, estou me preparando para lidar com diversos tipos de armazenamento de dados para garantir alta performance nas aplicações.
 
 ### Minhas Redes
 
