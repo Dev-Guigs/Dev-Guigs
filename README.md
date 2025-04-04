@@ -10,7 +10,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
 [![Discord](https://img.shields.io/badge/Discord-00000F.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@devguigs)
 
 
----
+#
 
 
 ### Linguagens e Tecnologias
@@ -54,6 +54,8 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Guigs/Dev-Guigs/output/github-contribution-grid-snake-dark.svg">
