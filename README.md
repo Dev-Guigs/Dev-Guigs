@@ -2,8 +2,8 @@
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento web e uma grande motivação para atuar como desenvolvedor Backend. Tenho me especializado em C#, .NET e ASP.NET Core, tenho adquirindo sólidos conhecimentos no desenvolvimento de soluções robustas e escaláveis. Com uma boa base em bancos de dados SQL e bancos NoSQL, estou me preparando para lidar com diversos tipos de armazenamento de dados para garantir alta performance nas aplicações.
 
-### Minhas Redes
 
+<h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guiasilvac98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/guilherme-silva-571847347/)
@@ -11,7 +11,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
 [![Discord](https://img.shields.io/badge/Discord-000.svg?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@devguigs)
 
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+
 
 
 
