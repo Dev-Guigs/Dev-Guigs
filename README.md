@@ -11,8 +11,6 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
 
 
 #
-
-
 ### Linguagens e Tecnologias
 <img 
     align="left" 
