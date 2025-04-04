@@ -11,6 +11,8 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
 [![Discord](https://img.shields.io/badge/Discord-000.svg?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@devguigs)
 
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 
 
 
