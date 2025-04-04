@@ -55,6 +55,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
 #
 
 <picture align="center">
