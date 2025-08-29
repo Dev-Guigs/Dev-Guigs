@@ -1,7 +1,6 @@
 # Hi There!
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento web e uma grande motivação para atuar como desenvolvedor Backend. Tenho me especializado em C#, .NET e ASP.NET Core, tenho adquirindo sólidos conhecimentos no desenvolvimento de soluções robustas e escaláveis. Com uma boa base em bancos de dados SQL, estou me preparando para lidar com diversos tipos de armazenamento de dados para garantir alta performance nas aplicações.
-
+Atualmente cursando Análise e Desenvolvimento de Sistemas, com grande motivação para atuar como desenvolvedor Fullstack. Tenho me especializado em JavaScript, HTML, CSS e React, adquirindo experiência no desenvolvimento de aplicações modernas, responsivas e escaláveis. Busco constantemente aprimorar minhas habilidades técnicas e aplicar boas práticas no desenvolvimento de soluções que unam performance, usabilidade e qualidade de código.
 
 <h3 align="left">Connect with me!</h3>
 
@@ -11,23 +10,8 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com foco no desenvol
 [![Discord](https://img.shields.io/badge/Discord-000.svg?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@devguigs)
 
 #
-<h3 align="left">My Stack ~</h3>
-<div align="left">
-<img src="https://devicon-website.vercel.app/api/csharp/original.svg"height="45" alt="csharp logo"/>
-  <img width="8" />
-<img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg"height="45" alt="dotnet logo"/>
-  <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
-  <img width="8" />
-<img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?color=%23FFFFFF"height="45" alt="sqlserver logo"  />
-  <img width="8" />
-<img src="https://devicon-website.vercel.app/api/postgresql/original.svg"height="45" alt="postgresql logo"  />
-  <img width="8" />
-<img src="https://devicon-website.vercel.app/api/azure/original.svg"height="45" alt="azure logo"  />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
-
-
-</div>
 
 #
 
