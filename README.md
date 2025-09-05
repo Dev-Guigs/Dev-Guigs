@@ -12,9 +12,6 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com grande motivaç�
 #
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
-
-#
-
 <div style="text-align: center;" align="center">
   <h2>* GitHub Stats *</h2>
 
