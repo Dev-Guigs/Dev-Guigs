@@ -1,6 +1,6 @@
 # Hi There!
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, com grande motivação para atuar como desenvolvedor Fullstack. Tenho me especializado em JavaScript, HTML, CSS e React, adquirindo experiência no desenvolvimento de aplicações modernas e responsivas. Busco constantemente aprimorar minhas habilidades técnicas e aplicar boas práticas no desenvolvimento de soluções que unam performance, usabilidade e qualidade de código.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por resolver problemas através da programação. Tenho foco em me tornar Desenvolvedor Backend, para construir soluções seguras e bem estruturadas.
 
 <h3 align="left">Connect with me!</h3>
 
