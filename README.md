@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 [![Discord](https://img.shields.io/badge/Discord-000.svg?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@devguigs)
 
 #
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,mysql,git, )](https://skillicons.dev)
 
 <div style="text-align: center;" align="center">
   <h2>* GitHub Stats *</h2>
