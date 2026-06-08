@@ -2,6 +2,8 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por resolver problemas através da programação. Tenho foco em me tornar Desenvolvedor Backend, para construir soluções seguras e bem estruturadas.
 
+I am a student of Systems Analysis and Development, passionate about technology and solving problems through programming. My goal is to become a backend developer, creating secure and well-structured solutions.
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guiasilvac98@gmail.com)
