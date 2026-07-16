@@ -1,8 +1,8 @@
 # Hi There!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por resolver problemas através da programação. Tenho foco em me tornar Desenvolvedor Backend, para construir soluções seguras e bem estruturadas.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por resolver problemas através da programação. Tenho foco em me tornar Engenheiro Devops, para construir soluções seguras e bem estruturadas.
 
-I am a student of Systems Analysis and Development, passionate about technology and solving problems through programming. My goal is to become a backend developer, creating secure and well-structured solutions.
+I am a student of Systems Analysis and Development, passionate about technology and solving problems through programming. My goal is to become a Devops Engineer, creating secure and well-structured solutions.
 
 <h3 align="left">Connect with me!</h3>
 
@@ -12,7 +12,7 @@ I am a student of Systems Analysis and Development, passionate about technology 
 [![Discord](https://img.shields.io/badge/Discord-000.svg?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@devguigs)
 
 #
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,react,postgres,mysql,docker,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,postgres,aws)](https://skillicons.dev)
 
 <div style="text-align: center;" align="center">
   <h2>* GitHub Stats *</h2>
