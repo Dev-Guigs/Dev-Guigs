@@ -12,7 +12,7 @@ I am a student of Systems Analysis and Development, passionate about technology 
 [![Discord](https://img.shields.io/badge/Discord-000.svg?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@devguigs)
 
 #
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,terraform,postgres,aws)](https://skillicons.dev)
 
 <div style="text-align: center;" align="center">
   <h2>* GitHub Stats *</h2>
