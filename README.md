@@ -1,8 +1,8 @@
 # Hi There!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por resolver problemas através da programação. Tenho foco em me tornar Engenheiro Devops, para construir soluções seguras e bem estruturadas.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Qualidade de Software (QA), atuando tanto com testes manuais quanto automatizados. Tenho interesse em garantir a entrega de software confiável, atuando em todo o ciclo de testes — do planejamento e execução manual até a automação.
 
-I am a student of Systems Analysis and Development, passionate about technology and solving problems through programming. My goal is to become a Devops Engineer, creating secure and well-structured solutions.
+Possuo conhecimento em Cypress para automação de testes, Postman para testes de API, e Jira/Testlink para gestão e documentação de casos de teste. Estou em constante evolução, buscando aprofundar minhas habilidades técnicas em QA e me manter atualizado com as boas práticas e ferramentas do mercado.
 
 <h3 align="left">Connect with me!</h3>
 
@@ -12,7 +12,7 @@ I am a student of Systems Analysis and Development, passionate about technology 
 [![Discord](https://img.shields.io/badge/Discord-000.svg?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@devguigs)
 
 #
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,terraform,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,linux,git,cypress,postman,postgres,githubactions)](https://skillicons.dev)
 
 <div style="text-align: center;" align="center">
   <h2>* GitHub Stats *</h2>
